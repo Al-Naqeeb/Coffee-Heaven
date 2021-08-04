@@ -1,0 +1,16 @@
+.bg-light {
+  background-color: #be9c79 !important;
+}
+.mybk {
+  background-color: #c7a889;
+}
+.bc {
+  color: #be9c79;
+}
+.bk-img{
+  background-image: url('./images/4.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+    height: 100vh;
+
+}
